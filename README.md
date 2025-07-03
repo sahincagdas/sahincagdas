@@ -136,3 +136,4 @@
 - 🌐 [Portfolio](http://sahincagdas.netlify.app)
 
 ---
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=sahincagdas)
