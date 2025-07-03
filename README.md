@@ -117,10 +117,15 @@
 
 ## 🧩 Notable Projects
 
+🔹 **Portfolio Website**  
+🎯 My responsive, modern portfolio website.  
+`React`, `HTML`, `CSS`  
+[GitHub Repo](https://github.com/sahincagdas/Portfolio)
+
 🔹 **UniCampus App**  
 🎯 A mobile assistant for university life with maps, events, and menus.  
 `React Native`, `Firebase`, `Expo`  
-[GitHub Repo](https://github.com/your-username/unicampus)
+[GitHub Repo](https://github.com/sahincagdas/Unicampus)
 
 🔹 **Yemek Öneri Website**  
 🍽️ Smart recipe suggestions based on user filters like time, calories, and difficulty.  
