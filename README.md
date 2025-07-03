@@ -9,6 +9,8 @@
 ## 🚀 My Tech Toolbox
 
 <h3>💻 Programming Languages</h3>
+
+
 <p>
   <a href="https://www.python.org/" target="_blank"><img alt="python" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img alt="python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" style="height:40px; width:40px" title="JavaScript"/></a>&nbsp;&nbsp;&nbsp;
@@ -27,11 +29,10 @@
 </p>
 
 <h3>🎨 UI/UX & Design</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" title="Figma"/</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" title="Photoshop"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" title="Illustrator"/></a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" title="Photoshop"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" title="Illustrator"/></a>
   <a href="https://framer.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" title="Framer"/>
   </a>
