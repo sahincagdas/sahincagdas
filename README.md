@@ -93,11 +93,6 @@
 </p>
 
 
-- 🧠 AI & Computer Vision: `Python`, `OpenCV`, `TensorFlow`, `YOLOv8`
-- ⚛️ Frontend: `React.js`, `JavaScript`, `HTML`, `CSS`
-- 📱 Mobile: `React Native`, `TypeScript`, `AsyncStorage`, `Reanimated`
-- 🧰 Tools: `Git`, `VS Code`, `Firebase`, `Photoshop`, `Illustrator`
-
 ---
 
 ## 🧩 Notable Projects
