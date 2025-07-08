@@ -87,7 +87,7 @@
 `Unity`, `C#`, `Photoshop`  
 [GitHub Repo](https://github.com/your-username/street-racer-2d)
 
-🔹 **Çekiliş Uygulaması**  
+🔹 **Raffle app **  
 🎁 Raffle app with automatic email notifications and validation.  
 `React.js`, `EmailJS`, `React-toastify`  
 [GitHub Repo](https://github.com/your-username/cekilis-uygulamasi)
