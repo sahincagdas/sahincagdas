@@ -77,7 +77,7 @@
 `React Native`, `Firebase`, `Expo`  
 [GitHub Repo](https://github.com/sahincagdas/Unicampus)
 
-🔹 **Yemek Öneri Website**  
+🔹 **Recipe Suggestions App**
 🍽️ Smart recipe suggestions based on user filters like time, calories, and difficulty.  
 `JavaScript`, `HTML`, `CSS`, `JSON`  
 [GitHub Repo](https://github.com/your-username/yemek-oneri)
